@@ -1,0 +1,1 @@
+This aims to learn and understand how to use bigquery as vector store instead of just common data table.
